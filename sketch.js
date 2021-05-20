@@ -11,7 +11,7 @@ function preload(){
 
 }
 function setup(){
-createCanvas(2000,2000)
+createCanvas(3000,3000)
   // creating sprite image for oxygen available in chennai hospital no.1
 oxygenDhhs1 = createSprite(600, 400,150,150);
 oxygenDhhs1.addImage(oxygenDhhs1Img);
