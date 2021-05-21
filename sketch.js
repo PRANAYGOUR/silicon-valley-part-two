@@ -1,4 +1,4 @@
-var oxygenDhhs1 , oxygenDhhs1Img;
+/*var oxygenDhhs1 , oxygenDhhs1Img;
 var oxygenDhhs2 , oxygenDhhs2Img;
 var oxygenDhhs3 , oxygenDhhs3Img;
 
@@ -29,4 +29,4 @@ oxygenDhhs3.addImage(oxygenDhhs3Img);
 
 function draw(){
   drawSprites();
-}
+}*/
