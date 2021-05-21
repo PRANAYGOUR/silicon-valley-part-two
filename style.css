@@ -66,3 +66,10 @@ a:link{
     transform: scale(1.2);
   }
   
+  .item2{
+    font-family:sans-serif;
+    background-color: white;
+    font-size: 50px;
+      margin-bottom: 100px;
+  }
+  
